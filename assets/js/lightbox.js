@@ -1,0 +1,1 @@
+document.addEventListener("DOMContentLoaded",function(){GLightbox({selector:".glightbox",touchNavigation:!0,loop:!0,zoomable:!0,draggable:!0,keyboardNavigation:!0,width:"90vw",height:"90vh",closeOnOutsideClick:!0,openEffect:"fade",closeEffect:"fade"})});
